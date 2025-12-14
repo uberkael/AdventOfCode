@@ -1,9 +1,5 @@
 # Advent of Code
 
-🎄🎄🎄 🎄🎄🎄 🎄🎄🎄 🎄🎄🎄 🎄🎄🎄 🎄🎄🎄 🎄🎄🎄 🎄🎄🎄 🎄🎄🎄 🎄🎄🎄 🎄🎄🎄 🎄🎄🎄 \
-🎁🎁🎁 🎁🎁🎁 🎁🎁🎁 🎁🎁🎁 🎁🎁🎁 🎁🎁🎁 🎁🎁🎁 🎁🎁🎁 🎁🎁🎁 🎁🎁🎁 🎁🎁🎁 🎁🎁🎁 \
-⛄️⛄️⛄️ ☃️☃️☃️ ⛄️⛄️⛄️ ⛄️⛄️⛄️ ☃️☃️☃️ ⛄️⛄️⛄️ ⛄️⛄️⛄️ ☃️☃️☃️ ⛄️⛄️⛄️ ⛄️⛄️⛄️ ☃️☃️☃️ ⛄️⛄️⛄️
-
 ![Rust](https://img.shields.io/badge/Rust-gray?&logo=rust&logoColor=black&labelColor=orange)
 ![Zig](https://img.shields.io/badge/Zig-gray?logo=zig&logoColor=yellow&labelColor=black)
 <!-- ![Clojure](https://img.shields.io/badge/Clojure-gray?logo=clojure&logoColor=91DC47&labelColor=5881D8)
@@ -16,6 +12,9 @@
 ![C#](https://img.shields.io/badge/⬡-C%23-gray?labelColor=280068)
 ![Python](https://img.shields.io/badge/Python-gray?logo=python&logoColor=ffd343&labelColor=3776AB) -->
 
+🎄🎄🎄 🎄🎄🎄 🎄🎄🎄 🎄🎄🎄 🎄🎄🎄 🎄🎄🎄 🎄🎄🎄 🎄🎄🎄 🎄🎄🎄 🎄🎄🎄 🎄🎄🎄 🎄🎄🎄 \
+🎁🎁🎁 🎁🎁🎁 🎁🎁🎁 🎁🎁🎁 🎁🎁🎁 🎁🎁🎁 🎁🎁🎁 🎁🎁🎁 🎁🎁🎁 🎁🎁🎁 🎁🎁🎁 🎁🎁🎁 \
+⛄️⛄️⛄️ ☃️☃️☃️ ⛄️⛄️⛄️ ⛄️⛄️⛄️ ☃️☃️☃️ ⛄️⛄️⛄️ ⛄️⛄️⛄️ ☃️☃️☃️ ⛄️⛄️⛄️ ⛄️⛄️⛄️ ☃️☃️☃️ ⛄️⛄️⛄️
 
 This project features my naive solutions to the [Advent of Code](https://adventofcode.com/)
 in several programming languages.
